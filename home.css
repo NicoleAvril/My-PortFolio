@@ -1,0 +1,54 @@
+h1{
+    color: #635E5E;
+    font-size: 40px;
+  padding-left: 50px;
+  }
+  
+  *{
+    background-color: #F5F5F5;
+    align-items: center;
+  }
+  
+  p{
+    color: #635E5E;
+    font-size: 30px;
+    padding-left: 40px;
+  }
+  
+  #header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #E3E6F6;
+    padding: auto;
+  }
+  
+  #navbar1 {
+   background: #E3E6F6;
+  }
+  
+ #inputinfo {
+  box-sizing: border-box;
+  font-family: system-ui;
+  font-size: xlarge;
+  font-weight: 500;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+ .sbutton {
+  background-color: #B8EDC0;
+  font-family: system-ui;
+  font-size: 30px;
+  font-weight: 200;
+  border-radius: 30px;
+  box-sizing: 100px;
+  padding-left: auto;
+   
+}
+
+#listos{
+  color: #635E5E;
+    font-size: 30px;
+    padding-left: 150px;
+}
